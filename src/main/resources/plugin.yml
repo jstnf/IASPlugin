@@ -1,0 +1,6 @@
+name: IASCore
+version: '${project.version}'
+main: com.ias.core.IASPlugin
+api-version: 1.18
+authors: [ jstnf ]
+description: Core plugin for Infinite Architects Society
